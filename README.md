@@ -1,6 +1,6 @@
 [![MasterHead](https://media2.giphy.com/media/xUA7aS269qm5PX7fa0/giphy.gif?cid=ecf05e479g6ydhhd7ccoum79dnmtjccnez4dg9oxv9lgbnqf&rid=giphy.gif&ct=g)](https://github.com/VaibhavDwivedi-321)
 <h1 align="center">Hi 👋, I'm Vaibhav Dwivedi</h1>
-<h3 align="center">I'm a passionate frontend developer and a curious coder.</h3>
+<h3 align="center">I'm a passionate software developer and a curious coder.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavdwivedi-321&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavdwivedi-321" /> </p>
 
